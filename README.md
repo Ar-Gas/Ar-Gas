@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--
-**Ar-Gas/Ar-Gas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ar-Gas/Ar-Gas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 - 🌱 I’m a sophomore software engineering student in Taiyuan University of Technology.
 - 👯 I’m working on computer programming compertation and backend development.
 - 🤔 I am also looking for help from like-minded friends。
