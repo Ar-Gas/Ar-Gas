@@ -7,3 +7,5 @@
 - 📫 How to reach me: QQ:2934060590
                        WeChat:zyq2934060590
 - ⚡ I love listen ancient instrument music and admire natural and urban landscapes.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ar-Gas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
