@@ -9,7 +9,7 @@
 - ⚡ I love listen ancient instrument music and admire natural and urban landscapes.
 
 ### 🏢 实习经历 Work experience
-- [思必驰/aispeech](https://www.aispeech.com/) 📌2024.07-2024.09
+- [思必驰/aispeech](https://www.aispeech.com/) 📌2024.07-至今
   - 工作岗位：研发实习生
   - 工作部门：智能汽车事业部
   - 工作方向：在习
