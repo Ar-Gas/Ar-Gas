@@ -11,7 +11,7 @@
 ### 🏢 实习经历 Work experience
 - [思必驰/aispeech](https://www.aispeech.com/) 📌2024.07-2024.09
   - 工作岗位：研发实习生
-  - 工作部门：智能汽车事务部
+  - 工作部门：智能汽车事业部
   - 工作方向：在习
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ar-Gas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
