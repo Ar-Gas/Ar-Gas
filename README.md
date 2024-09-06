@@ -9,9 +9,9 @@
 - ⚡ I won a bronze medal 🥉 in the ICPC (ACM) Invitational tournament.
 
 ### 🏢 实习经历 Work experience
-- [思必驰/aispeech](https://www.aispeech.com/) 📌2024.07-至今
+- [思必驰/aispeech](https://www.aispeech.com/) 📌2024.07-2024.09
   - 工作岗位：研发实习生
   - 工作部门：智能汽车事业部
-  - 工作方向：在习
+  - 工作方向：摸鱼
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ar-Gas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
