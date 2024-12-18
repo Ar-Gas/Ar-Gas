@@ -4,8 +4,7 @@
 - 🌱 I’m a junior software engineering student (2022-2026) in Taiyuan University of Technology.
 - 👯 I’m working on computer programming compertation and C++ server and kernel development, interested in Rust.
 - 🤔 I am also looking for help from like-minded friends.
-- 📫 How to reach me: QQ:2934060590
-                       WeChat:zyq2934060590
+- 📫 How to reach me: email me :2934060590@qq.com
 - ⚡ I won a bronze medal 🥉 in the ICPC (ACM) Invitational tournament.
 
 ### 🏢 实习经历 Work experience
