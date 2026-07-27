@@ -8,7 +8,6 @@
 
 ### 🏫 教育经历 Education experience
 - B.S. (SE), Taiyuan Univ. of Tech., 2022–2026; 
-
 - M.S. (Elec. Info.（CS）), BGRIMM, 2026–2029 (first year at USTB).
 
 ### 🏢 实习经历 Work experience
