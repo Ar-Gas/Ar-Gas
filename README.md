@@ -8,13 +8,12 @@
 
 ### 🏫 教育经历 Education experience
 - B.S. (SE), Taiyuan Univ. of Tech., 2022–2026; 
-- M.S. (Elec. Info.（CS）), BGRIMM, 2026–2029 (first year at USTB).
+- M.S. (Elec. Info.（CS & AI）), BGRIMM, 2026–2029 (first year at USTB).
 
 ### 🏢 实习经历 Work experience
 - [思必驰/aispeech](https://www.aispeech.com/) 📌2024.07-2024.09
-  - 工作岗位：研发实习生
+  - 工作岗位：C++ 研发实习生
   - 工作部门：智能汽车事业部
-  - 工作方向：-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ar-Gas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
